@@ -20,7 +20,7 @@ If you find a bug please open a ticket in the [support request](https://wordpres
 </strong>
 
 <blockquote>
-<h4> WP Staging</h4>
+<h4> WP Staging </h4>
 This plugin allows you to create an staging or development environment in seconds* <br />
 It creates a clone of your website into a subfolder of your current WordPress installation with an entire copy of your database. 
 This sounds pretty simple and yes it is! All the hard time consumpting database and file copy stuff including url replacements is done in the background.
@@ -29,16 +29,16 @@ I created this plugin because all other solutions are way too complex, overloade
 All these reasons prevent user from testing new plugins and updates first before installing them on their live website, so its time to release a plugin which has the potential to be merged into everyone´s wordpress workflow.
 
 <p><small><em>* Time of creation depends on size of your database and file size</em></small></p>
-<blockquote>
+</blockquote>
 
 WP Staging can prevent your website from being broken or unavailable because of installing untested plugin updates! 
 
 Change your workflow of updating themes and plugins data:
 
-<li> 1. Use WP Staging to create a clone of your website with all your latest production data</li>
+<li> 1. Use WP Staging to create a clone of your website with latest production data</li>
 <li> 2. Customize theme, configuration and plugins or install new ones</li>
 <li> 3. Test everything on your staging site firstz</li>
-<li> 4. Everything running as expected? You are on the save side to do all these modifications on your production site!</li>
+<li> 4. Everything running as expected? You are on the save side to migrate all these modifications on your production site!</li>
 
 
 <h3> Why should i use a staging website? </h3>
