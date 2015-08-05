@@ -15,19 +15,19 @@ WP Staging creates independent staging and development sites that are only avail
 
 == Description == 
 
-<strong>This software is beta and work in progress! <br>
-If you find a bug please open a ticket in the [support request](https://wordpress.org/support/plugin/wp-staging/ "support forum") so i am able to fix it!
+<strong>This software is well tested but still beta and work in progress! <br>
+If you find a bug please open a ticket in the [support request](https://wordpress.org/support/plugin/wp-staging/ "support forum"). Every issue will be fixed asap!
 </strong>
 
 <blockquote>
 <h4> WP Staging </h4>
-This plugin allows you to create an staging or development environment in seconds* <br />
+This plugin allows you to create an staging or development environment in seconds* <br /> <br />
 It creates a clone of your website into a subfolder of your current WordPress installation with an entire copy of your database. 
-This sounds pretty simple and yes it is! All the hard time consumpting database and file copy stuff including url replacements is done in the background.
-
+This sounds pretty simple and yes it is! All the hard time consumptive database and file copy stuff including url replacements is done in the background.
+ <br /> <br />
 I created this plugin because all other solutions are way too complex, overloaded with dozens of options or having server requirements which are not available on most shared hosting solutions.
 All these reasons prevent user from testing new plugins and updates first before installing them on their live website, so its time to release a plugin which has the potential to be merged into everyone´s wordpress workflow.
-
+ <br /> <br />
 <p><small><em>* Time of creation depends on size of your database and file size</em></small></p>
 </blockquote>
 
@@ -39,7 +39,7 @@ WP Staging can prevent your website from being broken or unavailable because of 
 * Access to the staging site will be granted only for administrators
 * Admin bar reflects that you are working on a staging site
 * No access to staging site for search engines
-* Extensive logging if things goes wrong. (Find them in wp-content/wp-staging/logs)
+* Extensive logging if things goes wrong.
 
 = What does not work or is not tested? =
 
