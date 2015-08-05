@@ -1,4 +1,4 @@
-=== WP Staging - Site cloning and staging site creation simplified === 
+=== WP Staging === 
 
 Author URL: https://wordpress.org/plugins/wp-staging
 Plugin URL: https://wordpress.org/plugins/wp-staging
@@ -29,7 +29,7 @@ I created this plugin because all other solutions are way too complex, overloade
 All these reasons prevent user from testing new plugins and updates first before installing them on their live website, so its time to release a plugin which has the potential to be merged into everyone´s wordpress workflow.
 
 <p><small><em>* Time of creation depends on size of your database and file size</em></small></p>
-</blockquote> 
+</blockquote>
 
 WP Staging can prevent your website from being broken or unavailable because of installing untested plugin updates! 
 
@@ -64,6 +64,11 @@ the cpu performance can lead to unexpected results on your production website.
 There are dozens of other possible cause of failure which can not be handled well when you are testing your changes on a local staging platform.
 
 This is were WP Staging steps in... Site cloning and staging site creation simplified!
+
+<h3>I just want to migrate the database from one installation to another</h3>
+If you want to migrate your local database to a already existing production site you can use a tool like WP Migrate DB.
+WP Staging is only for creating a staging site with latest data from your production site. So it goes the opposite way of WP Migrate DB.
+Both tools are excellent cooperating eachother.
 
 = Main Features =
 
