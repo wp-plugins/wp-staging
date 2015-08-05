@@ -29,7 +29,7 @@ I created this plugin because all other solutions are way too complex, overloade
 All these reasons prevent user from testing new plugins and updates first before installing them on their live website, so its time to release a plugin which has the potential to be merged into everyone´s wordpress workflow.
 
 <p><small><em>* Time of creation depends on size of your database and file size</em></small></p>
-<blockquote>
+</blockquote>
 
 WP Staging can prevent your website from being broken or unavailable because of installing untested plugin updates! 
 
