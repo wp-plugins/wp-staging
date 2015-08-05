@@ -27,7 +27,7 @@ If you find a bug please open a ticket in the [support request](https://wordpres
 > I created this plugin because all other solutions are way too complex, overloaded with dozens of options or having server requirements which are not available on most shared hosting solutions.
 > All these reasons prevent user from testing new plugins and updates first before installing them on their live website, so its time to release a plugin which has the potential to be merged into everyone´s wordpress workflow.
 >
-><p><small><em>* Time of creation depends on size of your database and file size</em></small></p>
+>* Time of creation depends on size of your database and file size
 >
 
 WP Staging can prevent your website from being broken or unavailable because of installing untested plugin updates! 
@@ -109,7 +109,10 @@ After installation goto the settings page 'Staging' and do your adjustments ther
 
 == Screenshots ==
 
-1. Create a staging website
+1. Step 1. Create new staging site
+2. Step 2. Scanning your website for files and database tables
+3. Step 3. Staging site creation in progress
+4. Finish!
 
 
 == Changelog ==
