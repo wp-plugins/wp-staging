@@ -15,7 +15,7 @@ WP Staging creates independent staging and development sites that are only avail
 
 == Description == 
 
-<strong>This software is well tested but still beta and work in progress! <br>
+<strong>This software is brandnew, well tested but still beta and work in progress! <br>
 If you find a bug please open a ticket in the [support request](https://wordpress.org/support/plugin/wp-staging/ "support forum"). Every issue will be fixed asap!
 </strong>
 
