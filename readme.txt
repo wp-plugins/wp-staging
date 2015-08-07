@@ -1,4 +1,4 @@
-﻿=== WP Staging === 
+=== WP Staging === 
 
 Author URL: https://wordpress.org/plugins/wp-staging
 Plugin URL: https://wordpress.org/plugins/wp-staging
