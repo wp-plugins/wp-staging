@@ -1,4 +1,4 @@
-=== WP Staging === 
+﻿=== WP Staging === 
 
 Author URL: https://wordpress.org/plugins/wp-staging
 Plugin URL: https://wordpress.org/plugins/wp-staging
@@ -126,7 +126,7 @@ After installation goto the settings page 'Staging' and do your adjustments ther
 
 = 0.9.2 =
 * Fix: A conflict with the plugin WP Migrate DB (Pro)
-* Fix: Limit the staging name to maximum of 16 characters
+* Fix: Limit the staging name to maximum of 16 characters 
 
 = 0.9.1 =
 * Fix: Change search and replace function for table wp_options. This prevented on some sites the moving of serialized theme data
