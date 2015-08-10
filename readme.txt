@@ -1,4 +1,4 @@
-﻿=== WP Staging === 
+=== WP Staging - DB & File WordPress Migration === 
 
 Author URL: https://wordpress.org/plugins/wp-staging
 Plugin URL: https://wordpress.org/plugins/wp-staging
@@ -20,7 +20,7 @@ If you find a bug please open a ticket in the [support request](https://wordpres
 </strong>
 
 <blockquote>
-<h4> WP Staging </h4>
+<h4> WP Staging for WordPress Migration </h4>
 This plugin allows you to create an staging or development environment in seconds* <br /> <br />
 It creates a clone of your website into a subfolder of your current WordPress installation with an entire copy of your database. 
 This sounds pretty simple and yes it is! All the hard time consumptive database and file copy stuff including url replacements is done in the background.
@@ -35,11 +35,13 @@ WP Staging can prevent your website from being broken or unavailable because of 
 
 = Main Features =
 
-* Creates a staging website with a few clicks
-* Access to the staging site will be granted only for administrators
+* <strong>Easy: </strong> Staging migration possible for everyone. No configuration needed!
+* <strong>Fast: </strong> Migration takes only a few seconds or minutes, depending on the size.
+* <strong>Search Engine Friendly: </strong> Access to the staging site will be granted only for administrators
+<strong>Safe</strong> 
 * Admin bar reflects that you are working on a staging site
-* No access to staging site for search engines
-* Extensive logging if things goes wrong.
+* No access to staging site for search engines and other user
+* Extensive logging if migration goes wrong.
 
 = What does not work or is not tested? =
 
@@ -126,7 +128,7 @@ After installation goto the settings page 'Staging' and do your adjustments ther
 
 = 0.9.2 =
 * Fix: A conflict with the plugin WP Migrate DB (Pro)
-* Fix: Limit the staging name to maximum of 16 characters 
+* Fix: Limit the staging name to maximum of 16 characters
 
 = 0.9.1 =
 * Fix: Change search and replace function for table wp_options. This prevented on some sites the moving of serialized theme data
