@@ -11,7 +11,7 @@ Requires at least: 3.6+
 Tested up to: 4.2.4
 Stable tag: 0.9.2
 
-Clone and duplicate live sites to independent staging and development sites that are available only to administrators.
+Clone, duplicate and migrate live sites to independent staging and development sites that are available only to administrators.
 
 == Description == 
 
