@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: staging, migration, development, migrate, clone, cloning, admin, page, content, plugin, media, backup, test, testing, sandbox, widget, post, plugin, admin, posts, sidebar, shortcode, google
 Requires at least: 3.6+
 Tested up to: 4.2.4
-Stable tag: 0.9.2
+Stable tag: 0.9.2 
 
 Clone and duplicate live sites to independent staging and development sites that are available only to administrators.
 
