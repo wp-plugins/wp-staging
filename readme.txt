@@ -6,12 +6,12 @@ Contributors: ReneHermi
 Donate link: https://wordpress.org/plugins/wp-staging
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: staging, migration, development, migrate, cloning, admin, page, content, plugin, media, backup, test, testing, sandbox, widget, post, plugin, admin, posts, sidebar, shortcode, google
+Tags: staging, migration, development, migrate, clone, cloning, admin, page, content, plugin, media, backup, test, testing, sandbox, widget, post, plugin, admin, posts, sidebar, shortcode, google
 Requires at least: 3.6+
 Tested up to: 4.2.4
 Stable tag: 0.9.2
 
-WP Staging creates independent staging and development sites that are only available to administrators.
+Clone and duplicate live sites to independent staging and development sites that are available only to administrators.
 
 == Description == 
 
@@ -38,7 +38,7 @@ WP Staging can prevent your website from being broken or unavailable because of 
 * <strong>Easy: </strong> Staging migration possible for everyone. No configuration needed!
 * <strong>Fast: </strong> Migration takes only a few seconds or minutes, depending on the size.
 * <strong>Search Engine Friendly: </strong> Access to the staging site will be granted only for administrators
-<br>
+<br /><br />
 <strong>Safe</strong> 
 <br>
 * Admin bar reflects that you are working on a staging site
