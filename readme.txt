@@ -48,7 +48,9 @@ WP Staging can prevent your website from being broken or unavailable because of 
 = What does not work or is not tested when running wordpress migration? =
 
 * Wordpress migration of wordpress multisites (not tested)
-* WordPress migration process on windows server (not tested but will probably work)
+* WordPress migration process on windows server (not tested but will probably work) 
+Edit: Migration on windows server seems to be working well: [Read more](https://wordpress.org/support/topic/wont-copy-files?replies=5 "Read more") 
+
 
 <strong>Change your workflow of updating themes and plugins data:</strong>
 
